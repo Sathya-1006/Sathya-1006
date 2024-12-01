@@ -6,17 +6,11 @@
 [Your Portfolio Link](#)-->
 
 
-## 🌱 Currently Learning  
-- Data Structures and Algorithms (DSA)
-
-
+## 🌱 Currently Learning Data Structures and Algorithms (DSA)
 ## 👯 Looking to Collaborate On  
 - Web Developer
 - Java Development 
-
-
-## 💬 Ask Me About  
-- Tech
+## 💬 Ask Me About Tech
 
 ## 📫 How to Reach Me  
 [LinkedIn](www.linkedin.com/in/sathya-p-5ab450268)
@@ -24,8 +18,7 @@
 [sathyapm1006@gmail.com](mailto:your_email@example.com)  
 
 
-## 😄 Pronouns  
-**Techie**
+## 😄 Pronouns **Techie**
 
 ## 💻 I Code In  
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="external-sql-computer-programming-flaticons-lineal-color-flat-icons"/>
