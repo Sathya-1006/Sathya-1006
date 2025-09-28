@@ -12,8 +12,8 @@
 - Java Development 
 ## 💬 Ask Me About Tech
 
-## 📫 How to Reach Me  
-[LinkedIn](www.linkedin.com/in/sathya-p-5ab450268)
+## 📫 How to Reach Me 
+[LinkedIn](https://www.linkedin.com/in/sathyapm1006/)
  
 [sathyapm1006@gmail.com](mailto:your_email@example.com)  
 
