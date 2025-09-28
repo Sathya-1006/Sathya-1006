@@ -46,4 +46,4 @@
 ---
 
 ### 🌐 Follow Me  
-[GitHub](https://github.com/Sathya-1006) | [LinkedIn](www.linkedin.com/in/sathya-p-5ab450268)
+[GitHub](https://github.com/Sathya-1006) | [LinkedIn](https://www.linkedin.com/in/sathyapm1006/)
